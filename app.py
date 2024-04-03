@@ -11,3 +11,7 @@ st.header('Courses offer')
 st.subheader('Data Science')
 st.subheader('Data Analysis')
 st.subheader('Ai')
+st.subheader('python')
+st.subheader('sql')
+
+
