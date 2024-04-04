@@ -14,5 +14,6 @@ st.subheader('Ai')
 st.subheader('python')
 st.subheader('sql')
 st.subheader('Data Science And ML')
+st.subheader('DSA')
 
 
