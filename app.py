@@ -16,4 +16,10 @@ st.subheader('sql')
 st.subheader('Data Science And ML')
 st.subheader('DSA')
 
+st.sidebar.title('Menu')
+st.sidebar.markdown("""
+-Home
+-About 
+-Contact
+                    """)
 
